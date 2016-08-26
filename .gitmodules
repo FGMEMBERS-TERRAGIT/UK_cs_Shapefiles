@@ -1,0 +1,36 @@
+[submodule "UK_cs_landmass"]
+	path = UK_cs_landmass
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_landmass.git
+[submodule "UK_cs_Airports"]
+	path = UK_cs_Airports
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_Airports.git
+[submodule "UK_cs_lagoon"]
+	path = UK_cs_lagoon
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_lagoon.git
+[submodule "UK_cs_GolfCourse"]
+	path = UK_cs_GolfCourse
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_GolfCourse.git
+[submodule "UK_cs_estuary"]
+	path = UK_cs_estuary
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_estuary.git
+[submodule "UK_cs_sand"]
+	path = UK_cs_sand
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_sand.git
+[submodule "UK_cs_Watercourse"]
+	path = UK_cs_Watercourse
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_Watercourse.git
+[submodule "UK_cs_SaltMarsh"]
+	path = UK_cs_SaltMarsh
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_SaltMarsh.git
+[submodule "UK_cs_port"]
+	path = UK_cs_port
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_port.git
+[submodule "UK_cs_industrial"]
+	path = UK_cs_industrial
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_industrial.git
+[submodule "UK_cs_construction"]
+	path = UK_cs_construction
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_construction.git
+[submodule "UK_cs_dump"]
+	path = UK_cs_dump
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_dump.git
