@@ -34,3 +34,18 @@
 [submodule "UK_cs_dump"]
 	path = UK_cs_dump
 	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_dump.git
+[submodule "UK_cs_Rock"]
+	path = UK_cs_Rock
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_Rock.git
+[submodule "UK_cs_Marsh"]
+	path = UK_cs_Marsh
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_Marsh.git
+[submodule "UK_cs_MixedForest"]
+	path = UK_cs_MixedForest
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_MixedForest.git
+[submodule "UK_cs_Grassland"]
+	path = UK_cs_Grassland
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_Grassland.git
+[submodule "UK_cs_Bog"]
+	path = UK_cs_Bog
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_Bog.git
