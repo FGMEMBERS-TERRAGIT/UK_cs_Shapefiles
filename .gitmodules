@@ -49,3 +49,9 @@
 [submodule "UK_cs_Bog"]
 	path = UK_cs_Bog
 	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_Bog.git
+[submodule "UK_cs_Urban"]
+	path = UK_cs_Urban
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_Urban.git
+[submodule "UK_cs_SubUrban"]
+	path = UK_cs_SubUrban
+	url = https://github.com/FGMEMBERS-TERRAGIT/UK_cs_SubUrban.git
